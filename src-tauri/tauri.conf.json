@@ -53,8 +53,7 @@
       "endpoints": [
           "https://github.com/cinnyapp/cinny-desktop/releases/download/tauri/release.json"
       ],
-      "dialog": true,
-      "pubkey": null
+      "dialog": true
     },
     "allowlist": {
       "all": true
