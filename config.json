@@ -1,6 +1,7 @@
 {
-  "defaultHomeserver": 1,
+  "defaultHomeserver": 0,
   "homeserverList": [
+    "adamski2003.lol",
     "converser.eu",
     "matrix.org",
     "mozilla.org",
@@ -27,7 +28,7 @@
       "#PrivSec.dev:arcticfoxes.net",
       "#disroot:aria-net.org"
     ],
-    "servers": [ "matrix.org", "mozilla.org", "unredacted.org" ]
+    "servers": [ "matrix.org", "mozilla.org", "unredacted.org", "matrixrooms.info" ]
   },
 
   "hashRouter": {
